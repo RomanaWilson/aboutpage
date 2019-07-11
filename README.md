@@ -1,2 +1,2 @@
-# aboutpage
-This is my about page before building portfolio
+# css-exercise-four
+Exercise focused on the usage of media queries
